@@ -24,6 +24,15 @@ header.startup {
 	height: 100%;
 }
 
+header.startup hr {
+	margin-top: 200px;
+	margin-bottom: 30px;
+}
+
+header.startup h1 {
+	font-size: 2rem;
+}
+
 .btn {
 	font-weight: 700;
 	text-transform: uppercase;
