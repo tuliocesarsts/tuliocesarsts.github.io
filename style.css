@@ -7,12 +7,6 @@ body {
 	font-family: 'Montserrat', sans-serif;
 }
 
-hr {
-	max-width: 65px;
-	border-width: 3px;
-	border-color: #F05F44;
-}
-
 .faded {
 	color: rgba(255, 255, 255, 0.8);
 }
@@ -53,11 +47,3 @@ header.startup h1 {
 	background-color: #EE4B08;
 	border-color: #EE4B08;
 }
-
-#mc_embed_signup form {
-	display: inline-block;
-	position: relative;
-	text-align: center;
-	padding:10px 0 10px 3%;
-}
-
