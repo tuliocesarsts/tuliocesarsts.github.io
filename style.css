@@ -53,3 +53,8 @@ header.startup h1 {
 	background-color: #EE4B08;
 	border-color: #EE4B08;
 }
+
+#mc_embed_signup form {
+	display: inline-block;
+}
+
