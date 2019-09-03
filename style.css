@@ -21,6 +21,8 @@ header.startup {
 .clear {
 	margin-top: 200px;
 	margin-bottom: 30px;
+	position: relative;
+	left: 30px;
 }
 
 .btn {
